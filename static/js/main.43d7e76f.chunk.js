@@ -1,0 +1,2 @@
+(this["webpackJsonpaxios-catch"]=this["webpackJsonpaxios-catch"]||[]).push([[0],{10:function(t,c,e){"use strict";e.r(c);var n=e(1),r=e.n(n),s=e(3),i=e.n(s),o=(e(8),e(0)),a=function(){return Object(o.jsx)(o.Fragment,{children:"\uc608\uc678 \ucc98\ub9ac\ubc29\ubc84\uc784"})};i.a.render(Object(o.jsx)(r.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))},8:function(t,c,e){}},[[10,1,2]]]);
+//# sourceMappingURL=main.43d7e76f.chunk.js.map

@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Koras02/react-axios-catch/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Koras02/react-axios-catch/static/js/main.43d7e76f.chunk.js",
+    "main.js.map": "/Koras02/react-axios-catch/static/js/main.43d7e76f.chunk.js.map",
+    "runtime-main.js": "/Koras02/react-axios-catch/static/js/runtime-main.a122d25c.js",
+    "runtime-main.js.map": "/Koras02/react-axios-catch/static/js/runtime-main.a122d25c.js.map",
+    "static/js/2.a7ddf49c.chunk.js": "/Koras02/react-axios-catch/static/js/2.a7ddf49c.chunk.js",
+    "static/js/2.a7ddf49c.chunk.js.map": "/Koras02/react-axios-catch/static/js/2.a7ddf49c.chunk.js.map",
+    "index.html": "/Koras02/react-axios-catch/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/Koras02/react-axios-catch/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.a7ddf49c.chunk.js.LICENSE.txt": "/Koras02/react-axios-catch/static/js/2.a7ddf49c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a122d25c.js",
+    "static/js/2.a7ddf49c.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.43d7e76f.chunk.js"
+  ]
+}
